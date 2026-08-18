@@ -50,7 +50,7 @@ M          = 1.0        # kg   -- from the filename: _m1_
 G          = 9.81       # m/s2 -- from the filename: _g981
 
 SEED         = 42
-HIDDEN       = [64, 64, 64]
+HIDDEN       = [16, 16]
 EPOCHS       = 600
 BATCH_SIZE   = 256      # set to None for full-batch training
 LR           = 1e-3
