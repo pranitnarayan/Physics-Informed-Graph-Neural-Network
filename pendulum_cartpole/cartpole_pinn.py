@@ -1,3 +1,5 @@
+"""Cart-pole PINN training and evaluation."""
+
 from __future__ import annotations
 
 import csv
